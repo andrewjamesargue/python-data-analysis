@@ -31,9 +31,12 @@
 - Empty cells
 - NAs
 
-## Part 6 - Data Munging
+## Part 6 - Basic Data Munging
 - Remove duplicates
 - Subset
 - Dummy variables
 - Parse text data
 - Dates and time
+
+## PArt 7 - Beginner Data Munging
+- 
